@@ -26,7 +26,7 @@ public:
 ## ⚡ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,arduino,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,arduino,git,vscode" />
 </p>
 
 ---
