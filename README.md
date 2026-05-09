@@ -1,6 +1,6 @@
 <div align="center">
 
-# Banu
+# Banu Isgandarli
 
 ### Robotics • AI • Competitive Programming
 
