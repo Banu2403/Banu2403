@@ -30,15 +30,6 @@ public:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Banu2403&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banu2403&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
