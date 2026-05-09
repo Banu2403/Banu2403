@@ -1,10 +1,10 @@
 <div align="center">
 
-# Banu Isgandarli
+# Banu
 
-### Robotics • AI • Competitive Programming
+### Full Stack • Robotics Competition • AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Robotics+Engineer;AI+Builder;Competitive+Programmer;Future+Tech+Creator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Robotics+Competition+Builder;AI+Explorer" />
 
 </div>
 
@@ -15,9 +15,8 @@
 ```cpp
 class Banu {
 public:
-    string focus = "Robotics & AI";
-    string language = "C++";
-    string goal = "Build Future Technology";
+    string focus = "Full Stack + Robotics + AI";
+    string goal = "Build smart systems and win competitions";
 };
 ```
 
@@ -26,7 +25,7 @@ public:
 ## ⚡ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,arduino,git,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,arduino,git,linux,vscode" />
 </p>
 
 ---
@@ -50,22 +49,20 @@ public:
 
 ## 🧠 Current Focus
 
-- 🤖 WRO Future Engineers
-- 🧠 AI Systems
-- ⚛️ React Projects
-- 🏆 Competitive Programming
+- 🌐 Full Stack Development
+- 🤖 Robotics Competition (WRO style)
+- 🧠 Artificial Intelligence
+- ⚙️ Embedded Systems & Sensors
 
 ---
 
 ## 🌌 Quote
 
-> "Build things that look impossible first."
+> "Build, break, improve, repeat."
 
 ---
 
 <div align="center">
-
-### Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Banu2403&color=blueviolet)
 
